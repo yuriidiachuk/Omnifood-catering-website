@@ -1,4 +1,4 @@
-# Portfolio landing page of the catering website
+# Omnifood catering website (landing page)  
 - HTML 5
 - CSS 3
 - Java Script
