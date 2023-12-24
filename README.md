@@ -3,4 +3,4 @@
 - CSS 3
 - Java Script
 
-You can view [Omnifood website](https://yuriidiachuk.github.io/portfolio/) 
+You can view [Omnifood website](https://yuriidiachuk.github.io/Omnifood-catering-website/) 
